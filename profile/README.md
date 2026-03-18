@@ -20,4 +20,6 @@
 
 ---
 
-[![Banner](images/paradooxai.jpg)](images/paradooxai.jpg)
+<div align="center">
+  <img src="images/paradooxai.jpg" alt="Banner" />
+</div>

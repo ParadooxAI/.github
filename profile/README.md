@@ -1,12 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# ParadooxAI
 
-**Here are some ideas to get you started:**
+**Toward Next-Generation Trusted AI FinTech Middleware** 💰
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+---
+
+🎓 Incubated at the Hong Kong University of Science and Technology (Guangzhou), we're a research-driven fintech startup backed by a team of engineers and scientists working together to solve real-world problems.
+
+🤔 Financial AI today lacks transparency, consistency, and accountability — we're here to fix that by building next-generation trusted AI infrastructure for the financial industry.
+
+🔬 DeepFund, our live benchmarking system, powers multi-agent collaboration with end-to-end traceability, rigorous governance, and full explainability for every investment decision.
+
+🏦 From model evaluation and risk assessment to regulatory compliance, we deliver the infrastructure financial institutions need to deploy AI safely and effectively.
+
+🤝 Together, we're building the future of trusted AI in finance — dive into our open-source projects and join the conversation. ***Join us by scanning the QR code below to learn more about our work and how you can get involved.***	
+
+---
+
+[![Banner](images/paradooxai.jpg)](images/paradooxai.jpg)

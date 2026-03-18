@@ -1,12 +1,7 @@
 <div align="center">
-
-# ParadooxAI
-
-**Toward Next-Generation Trusted AI FinTech Middleware** 💰
-
+  <h1>ParadooxAI</h1>
+  <p><strong>Toward Next-Generation Trusted AI FinTech Middleware</strong> 💰</p>
 </div>
-
----
 
 🎓 Incubated at the Hong Kong University of Science and Technology (Guangzhou), we're a research-driven fintech startup backed by a team of engineers and scientists working together to solve real-world problems.
 
@@ -18,8 +13,6 @@
 
 🤝 Together, we're building the future of trusted AI in finance — dive into our open-source projects and join the conversation. ***Join us by scanning the QR code below to learn more about our work and how you can get involved.***	
 
----
-
 <div align="center">
-  <img src="images/paradooxai.jpg" alt="Banner" />
+  <img src="../images/paradooxai.jpg" alt="Banner" style="width: 30%; height: auto;" />
 </div>

@@ -14,5 +14,5 @@
 🤝 Together, we're building the future of trusted AI in finance — dive into our open-source projects and join the conversation. ***Join us by scanning the QR code below to learn more about our work and how you can get involved.***	
 
 <div align="center">
-  <img src="../images/paradooxai.jpg" alt="Banner" style="width: 30%; height: auto;" />
+  <img src="../images/paradooxai.jpg" alt="Banner" style="width: 20%; height: auto;" />
 </div>

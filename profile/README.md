@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ParadooxAI</h1>
-  <p><strong>Toward Next-Generation Trusted AI FinTech Middleware</strong> 💰</p>
+  <p><strong>Toward Trustworthy AI Products for Fund Investments</strong> 💰</p>
 </div>
 
 🎓 Incubated at the Hong Kong University of Science and Technology (Guangzhou), we're a research-driven fintech startup backed by a team of engineers and scientists working together to solve real-world problems.

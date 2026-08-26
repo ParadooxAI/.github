@@ -1,16 +1,17 @@
 <div align="center">
   <h1>Paradoox AI</h1>
-  <p><strong>Toward Financial Agents Evaluation, Analysis & Optimization</strong></p>
+  <p><strong>Toward Intelligent Financial Harness Evaluation, Analysis & Optimization</strong></p>
 </div>
 
-- 🎓 Incubated at the Hong Kong University of Science and Technology (Guangzhou), we're a research-driven fintech startup backed by a team of engineers and scientists working together to solve real-world problems.
+- 🎓 Incubated at the Hong Kong University of Science and Technology (Guangzhou), we're a research-driven team building toward financial agents evaluation, analysis & optimization — closing the last mile of financial Agent deployment.
 
-- 🤔 Financial AI today lacks transparency, consistency, and accountability — we're here to fix that by building next-generation trusted AI infrastructure for the financial industry.
+- 🤔 Most benchmarks test textbooks. Finance needs markets and visible decisions — generic scores rarely show whether an Agent can handle volatility, respect compliance gates, and make robust investment decisions.
 
-- 🏦 From model evaluation and risk assessment to regulatory compliance, we deliver the infrastructure financial institutions need to deploy AI safely and effectively.
+- 🏦 We deliver a standardized framework grounded in real business: deep evaluation beyond generic benchmarks, flexible tuning (hallucination detection, prompt & model routing, tool-call optimization), and full-chain analysis that turns traces into reusable data assets.
 
-- 🤝 Together, we're building the future of trusted AI in finance — dive into our open-source projects and join the conversation. ***Join us by scanning the QR code below to learn more about our work and how you can get involved.***	
+- 🤝 From NextFund leaderboards to project-based consulting, we help institutions deploy financial agents they can trust. ***Scan the QR code below to learn more about our work and how you can get involved.***	
+
 
 <div align="center">
-  <img src="../images/paradooxai.jpg" alt="Banner" style="width: 20%; height: auto;" />
+  <img src="../images/qrcode.png" alt="Banner" style="width: 70%; height: auto;" />
 </div>

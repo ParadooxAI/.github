@@ -13,5 +13,5 @@
 
 
 <div align="center">
-  <img src="../images/qrcode.png" alt="Banner" style="width: 70%; height: auto;" />
+  <img src="../images/qrcode.png" alt="Banner" style="width: 50%; height: auto;" />
 </div>
